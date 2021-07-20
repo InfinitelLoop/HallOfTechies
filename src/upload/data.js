@@ -321,7 +321,20 @@ const data = [
       "https://www.linkedin.com/in/ankit-mahajan-45b79b1a4/",
       "https://twitter.com/AnkitMa72507083",
     ],
+  },
+  {
+    name: "Chetna Jain",
+    role: "Student | Web Developer",
+    image: "https://avatars.githubusercontent.com/u/70153284?v=4",
+    skills: ['HTML', 'Angular', 'CSS', 'ReactJS', 'SQL', 'MongoDB'],
+    link: [
+      "https://github.com/InfinitelLoop",
+      "https://www.linkedin.com/in/chetna-jain-03742b1a9/",
+      "https://twitter.com/ChetnaJ88694579",
+    ],
   }
+
+
 ];
 
 
